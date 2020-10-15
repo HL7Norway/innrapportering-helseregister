@@ -18,7 +18,7 @@ Utvikle områdeprofiler og best practice for innrapporering til helseregistere. 
 
 ## Avhengigheter
 
-Trolig et stort behov for områdeprofiler for Procedure og en rekke Observations m.m. som ikke naturlig vil ligge under denne implementasjonsguiden.
+Trolig et stort behov for områdeprofiler for f.eks. Procedure, Encounter og en rekke Observations m.m. som ikke naturlig vil ligge under denne implementasjonsguiden. Utkast til disse kan dog med fordel gjøres i dette prosjektet. 
 
 ## Aktuelle integrasjonsprosjekter med lignende anvendelse
 
