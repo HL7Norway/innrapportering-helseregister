@@ -1,6 +1,6 @@
 # Innrapportering helseregister
 
-KLADD! UNDER UTARBEIDELSE!
+KLADD! UNDER UTARBEIDELSE! Være med på utviklingen? [Ta kontakt!](https://hl7norway.github.io/best-practice/docs/contact.html)
 
 ## Plan
 
