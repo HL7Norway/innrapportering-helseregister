@@ -20,9 +20,10 @@ Trolig et stort behov for områdeprofiler for Procedure og en rekke Observations
 
 ## Aktuelle integrasjonsprosjekter med lignende anvendelse
 
-- Innrapportering Dødsårsaksregisteret/FHI/Skatteetatet/FREG
+- Innrapportering Dødsårsaksregisteret _FHI/Skatteetatet/FREG_ (API + portal?)
 - All "skjema-basert" innrapportering til helseregistere
-- Førerkortfornyelse Helsedirektoratet/Statens vegvesen(SMART on FHIR-app)
+- Førerkortfornyelse _Helsedirektoratet/Statens vegvesen_ (SMART on FHIR-app)
+- Integrasjon Helseplattformen og kvalitetsregistere _Helse Midt-Norge RHF_
 
 ## Brainstorm
 
