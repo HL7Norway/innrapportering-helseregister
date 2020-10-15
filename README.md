@@ -14,6 +14,25 @@ Utvikle områdeprofiler og best practice for innrapporering til helseregistere. 
 - Beskrive hvordan profilene kan benyttes med flere arkitekturer, som dokumenter (bundle/composition), portaler, SMART on FHIR etc.
   - REST API i EPJ/fagsystem krever HelseAPI-profiler, f.eks. i bruk med SMART on FHIR. 
 
+## Avhengigheter
+
+Trolig et stort behov for områdeprofiler for Procedure og en rekke Observations m.m. som ikke naturlig vil ligge under denne implementasjonsguiden.
+
+## Aktuelle integrasjonsprosjekter med lignende anvendelse
+
+- Innrapportering Dødsårsaksregisteret/FHI/Skatteetatet/FREG
+- All "skjema-basert" innrapportering til helseregistere
+- Førerkortfornyelse Helsedirektoratet/Statens vegvesen(SMART on FHIR-app)
+
+## Brainstorm
+
+NB!: Bundle/composition er brukt under, men områdeprofilene skal være uavhengig av samhandlingsform (som REST API, dokument, messaging etc.)
+
+![lysbilde](images/Lysbilde6.PNG)
+![lysbilde](images/Lysbilde7.PNG)
+![lysbilde](images/Lysbilde8.PNG)
+
+
 ## Kontaktpersoner
 
 - linnbrandt
