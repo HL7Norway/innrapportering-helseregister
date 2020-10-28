@@ -38,5 +38,5 @@ NB!: Bundle/composition er brukt under, men områdeprofilene skal være uavhengi
 
 ## Kontaktpersoner
 
-- Linn Brandt - [rockphotog](https://github.com/linnbrandt)
+- Linn Brandt - [linnbrandt](https://github.com/linnbrandt)
 - Espen Stranger Seland - [rockphotog](https://github.com/rockphotog)
